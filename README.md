@@ -1,5 +1,5 @@
 # About the Project
-The Gate City Research Network (gcrNet) is a [NSF CyberInfrastructure project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925623&HistoricalAwards=false) (Award #1925623) to create a multi-instituional Science-DMZ. 
+The Gate City Research Network (gcrNet) is a [NSF CyberInfrastructure project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925623&HistoricalAwards=false) (Award #1925623) to create a multi-instituional Science-DMZ. For more information, please visit the [Project Wiki](https://github.com/gcrnet/docs/wiki).
 # Abstract
 The Gate City Research Network (GCRN) is a collaboration between the University of North Carolina at Greensboro (UNCG) and North Carolina A&T State University (NC A&T) to create a multi-institutional science DMZ supporting research activities through a dedicated, low-latency, high-speed research and education network connection. The GCRN enhances researcher access to high performance computing (HPC) resources supporting the competitive and innovative research environment state-wide and regionally by connecting the Southeastern Nanotechnology Infrastructure Corridor through the Joint School of Nanoscience and Nanoengineering (JSNN).
 
