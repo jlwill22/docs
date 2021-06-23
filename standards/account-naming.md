@@ -1,4 +1,4 @@
-# Gate City Research Account Naming Standards
+# gcrNet Account Naming Standards
 
 ## Purpose
 
