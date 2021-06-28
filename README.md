@@ -1,11 +1,60 @@
+![gcrNet Logo](https://raw.githubusercontent.com/gcrnet/docs/master/images/gcrNetSmWeb.jpg)
+
 # About the Project
 
-The Gate City Research Network (gcrNet) is a [NSF CyberInfrastructure project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925623&HistoricalAwards=false) (Award #1925623) to create a multi-institutional Science-DMZ. For more information, please visit the [Project Wiki](https://github.com/gcrnet/docs/wiki).
+The Gate City Research Network (gcrNet) is a [NSF CyberInfrastructure project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925623&HistoricalAwards=false) (Award #1925623) to create a multi-institutional Science-DMZ. For more information about the project please review the [project abstract](abstract.md)
 
-## Abstract
+The gcrNet is operated by UNC Greensboro and North Carolina A&T State University for the purpose of supporting data intensive research and is available to faculty and their research collaborators. If you are interested in utilizing the gcrNet for your research visit the [Getting Started](getting-started.md) resources.
 
-The Gate City Research Network (GCRN) is a collaboration between the University of North Carolina at Greensboro (UNCG) and North Carolina A&T State University (NC A&T) to create a multi-institutional science DMZ supporting research activities through a dedicated, low-latency, high-speed research and education network connection. The GCRN enhances researcher access to high performance computing (HPC) resources supporting the competitive and innovative research environment state-wide and regionally by connecting the Southeastern Nanotechnology Infrastructure Corridor through the Joint School of Nanoscience and Nanoengineering (JSNN).
+## What is the gcrNet?
 
-The GCRN, connected to the North Carolina Research and Education Network and Internet2, provides a dedicated, separate research network to overcome the latency challenges imposed on the enterprise networks that support the administrative and growing entertainment service traffic. The addition of a high-speed data transfer node facilitates fast transfers of large data to federated HPC environments at partner institutions and provides the foundation to enhance the end-to-end data flow processes from research instrumentation to analysis, simulation and modeling computational resources, significantly increasing the fundamental research capacity in disciplines such as chemistry, nano-engineering, nano-, computer-, and data science. The GCRN is committed to producing open access design, sustainability and governance documentation, use and performance data, and testing and operations protocols in support of developing a 21st-century data capable workforce and serving as a model for a scalable and efficient multi-institutional science DMZ.
+The gcrNet is a network built on the [Science DMZ](https://fasterdata.es.net/science-dmz/) model. The network utilizes a 10G dedicated internet link for transfer data across the internet at high speeds without interference from business and entertainment network traffic. The core of the network is located in the McNutt datacenter on the campus of UNC Greensboro with a distribution on the NC A&T campus. A list of locations where the gcrNet has been extended is available [here](access-locations.md).
 
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+Information about the management of the gcrNet is located in the [gcrNet Governance document](gcrNet_governance.md).
+
+Users of the gcrNet should review the [gcrNet Standards](standards/standards.md).
+
+## Project Information
+
+The implementation of the gcrNet is a 3 year project consisting of 5 phases:
+1. Design Validation
+2. Implementation
+3. Operation
+4. Analysis
+5. Expansion
+
+The detailed project breakdown as well as the project status can be found by visiting the [project board](https://github.com/orgs/gcrnet/projects).
+
+## Network Information
+
+The gcrNet is a Science DMZ and therefore does not operate like a traditional campus network. By default, endpoints on the network are not directly accessible from the general internet and do not have internet access. All exceptions are made on a router ACL basis, not through a traditional network firewall. This, along with specialized network hardware, provides a significant performance increase when transfering large amounts of data.
+
+*Simply put: the gcrNet is built for scientific insturmentation and not desktop computing.*
+
+More information about the network is located on the [Network](network.md) page.
+
+# Frequently Asked Questions
+
+## Q. What is a Science DMZ?
+
+A.
+
+## Q. Who can use the gcrNet?
+
+A.
+
+## Q. How do I connect to the gcrNet?
+
+A.
+
+## Q. How do I get data in and out of the gcrNet?
+
+A.
+
+## Q. What is a Data Transfer Node (DTN)?
+
+A.
+
+## Q. Can I connect my laptop to the gcrNet?
+
+A.
