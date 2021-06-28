@@ -12,6 +12,8 @@ The gcrNet is a network built on the [Science DMZ](https://fasterdata.es.net/sci
 
 Information about the management of the gcrNet is located in the [gcrNet Governance document](gcrNet_governance.md).
 
+Users of the gcrNet should review the [gcrNet Standards](standards/standards.md).
+
 ## Project Information
 
 The implementation of the gcrNet is a 3 year project consisting of 5 phases:
