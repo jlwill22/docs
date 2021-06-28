@@ -1,11 +1,8 @@
+![gcrNet Logo](https://raw.githubusercontent.com/gcrnet/docs/master/images/gcrNetSmWeb.jpg)
+
 # About the Project
 
-The Gate City Research Network (gcrNet) is a [NSF CyberInfrastructure project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925623&HistoricalAwards=false) (Award #1925623) to create a multi-institutional Science-DMZ. For more information, please visit the [Project Wiki](https://github.com/gcrnet/docs/wiki).
+The Gate City Research Network (gcrNet) is a [NSF CyberInfrastructure project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925623&HistoricalAwards=false) (Award #1925623) to create a multi-institutional Science-DMZ. For more information, please review the [project abstract](abstract.md)
 
-## Abstract
+ [Project Wiki](https://github.com/gcrnet/docs/wiki).
 
-The Gate City Research Network (GCRN) is a collaboration between the University of North Carolina at Greensboro (UNCG) and North Carolina A&T State University (NC A&T) to create a multi-institutional science DMZ supporting research activities through a dedicated, low-latency, high-speed research and education network connection. The GCRN enhances researcher access to high performance computing (HPC) resources supporting the competitive and innovative research environment state-wide and regionally by connecting the Southeastern Nanotechnology Infrastructure Corridor through the Joint School of Nanoscience and Nanoengineering (JSNN).
-
-The GCRN, connected to the North Carolina Research and Education Network and Internet2, provides a dedicated, separate research network to overcome the latency challenges imposed on the enterprise networks that support the administrative and growing entertainment service traffic. The addition of a high-speed data transfer node facilitates fast transfers of large data to federated HPC environments at partner institutions and provides the foundation to enhance the end-to-end data flow processes from research instrumentation to analysis, simulation and modeling computational resources, significantly increasing the fundamental research capacity in disciplines such as chemistry, nano-engineering, nano-, computer-, and data science. The GCRN is committed to producing open access design, sustainability and governance documentation, use and performance data, and testing and operations protocols in support of developing a 21st-century data capable workforce and serving as a model for a scalable and efficient multi-institutional science DMZ.
-
-This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
